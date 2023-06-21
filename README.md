@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me throuth social media
+
 
 <!---
 pandityunish/pandityunish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
