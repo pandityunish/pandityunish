@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pandityunish
+- 👋 Hi, I’m Yunish pandit
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on ...
+  
 
 
 <!---
