@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yunish pandit
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently working as a frontend web developer. 
   
 
 
